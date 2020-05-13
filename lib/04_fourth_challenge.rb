@@ -21,4 +21,3 @@ def fourth_challenge
    }
 }
 end
-binding.pry
